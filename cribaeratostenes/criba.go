@@ -6,7 +6,6 @@ import (
 	"strconv"
 )
 
-//Return a list of prime numbers joins by space less than n parameter
 func Criba(n int) string {
 
 	var buffer strings.Builder

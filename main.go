@@ -1,9 +1,6 @@
 package main
 
-import "algorithms/cribaeratostenes"
+func main() {
 
-func Main(){
-    //print criba values
-	cribaeratostenes.Criba()
 
 }
